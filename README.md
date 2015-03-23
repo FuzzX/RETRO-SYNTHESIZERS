@@ -15,4 +15,4 @@ I apologise for this ugly readme, it's under construction :)
 
 ------------------------------------------------------------------------------------------
 
-end of the readme
+End of the readme
