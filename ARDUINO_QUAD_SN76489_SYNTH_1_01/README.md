@@ -8,7 +8,7 @@ http://playground.arduino.cc/Main/MIDILibrary
 
 Original Github and Instructables from Brian Peters can be found here:
 
-Instructables: 
+Instructables:
 http://www.instructables.com/id/Quad-SN76489-Synth/
 
 Github: 
