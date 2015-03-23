@@ -8,9 +8,11 @@ http://playground.arduino.cc/Main/MIDILibrary
 
 Original Github and Instructables from Brian Peters can be found here:
 
-Instructables: http://www.instructables.com/id/Quad-SN76489-Synth/
+Instructables: 
+http://www.instructables.com/id/Quad-SN76489-Synth/
 
-Github: https://github.com/brianmarkpeters/CHIP_BASED_SYNTHESIZERS/tree/master/QUAD%20SN76489%20SYNTH
+Github: 
+https://github.com/brianmarkpeters/CHIP_BASED_SYNTHESIZERS/tree/master/QUAD%20SN76489%20SYNTH
 
 All the specs you need to know about this synth are explained on his videos
 
